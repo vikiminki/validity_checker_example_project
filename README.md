@@ -1,6 +1,6 @@
 # Validity Checker
 
-Ett maven-projekt med en liten implementation av en "Validity Checker" som:
+Ett (generiskt genererat) maven-projekt med en liten implementation av en "Validity Checker" som:
 * Kan ha flera (eller inga) validitest-kontroller
 * Kontrollerar indata mot alla sina validitetskontroller
 * Loggar till stdout om en validitetskontroll inte passerar
